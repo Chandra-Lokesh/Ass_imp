@@ -204,6 +204,9 @@ h3 {
     nav div img {
         width: 125px;
     }
+    .empty{
+        display: none;
+    } 
     .button1 {
         padding: 6px 8px;
         font-size: 13px;
